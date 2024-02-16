@@ -30,4 +30,4 @@ jobs:
       - name: Display structure of downloaded files
         run: ls -R
       - name: read the file
-        run: cat ./artifacts/hello.txt
+        run: cat hello.txt
